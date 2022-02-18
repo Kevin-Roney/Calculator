@@ -1,0 +1,21 @@
+#addition {
+    background-color: rgb(149, 255, 155);
+    width: 50%;
+    min-height: 175px;
+    align-items: center;
+}
+#subtraction {
+    background-color: rgb(190, 148, 238);
+    width: 50%;
+    min-height: 175px;
+}
+#multiplication {
+    background-color: rgb(111, 255, 243);
+    width: 50%;
+    min-height: 175px;
+}
+#division {
+    background-color: pink;
+    width: 50%;
+    min-height: 175px;
+}
